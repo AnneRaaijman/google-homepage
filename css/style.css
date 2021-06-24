@@ -1,0 +1,13 @@
+#navbar{
+
+    display: grid;
+    grid-template-columns: 1fr 50px 50px 50px 100px;
+    grid-template-rows: 50px;
+    align-self: flex-end;
+    background-color: red;
+}
+
+.gmail {
+
+    background-color: red;
+}
